@@ -1,0 +1,101 @@
+[
+    {
+        "id":1, 
+        "categoria": "cosechadoras", 
+        "marca": "John Deere", 
+        "modelo": "9770 STS", 
+        "potencia": 201, 
+        "sistema de cosecha": "Axial", 
+        "año": 2012, 
+        "horas motor": 4500,
+        "estado": "Usado"
+    },
+    {
+        "id": 2,
+        "categoria": "cosechadoras",
+        "marca": "Claas",
+        "modelo": "Lexion 570",
+        "potencia": 430,
+        "sistema de cosecha": "Axial",
+        "año": 2008,
+        "horas motor": 7500,
+        "estado": "Usado"
+    },
+    {
+        "id": 3,
+        "categoria":"cosechadoras",
+        "marca": "Massey Ferguson",
+        "modelo": "MF 9895",
+        "potencia": 470,
+        "sistema de cosecha": "Axial",
+        "año": 2021,
+        "horas motor": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 4,
+        "categoria": "cosechadoras",
+        "marca": "New Holland",
+        "modelo": "CR 9060",
+        "potencia": 354,
+        "sistema de cosecha":"Mixto",
+        "año": 2017,
+        "horas motor": 2000,
+        "estado":"Usado"
+    },
+    {
+        "id": 5,
+        "categoria":"cosechadoras",
+        "marca": "Vassalli",
+        "modelo": "AX 7500",
+        "potencia": 248,
+        "sistema de cosecha": "Axial",
+        "año": 2021,
+        "horas motor": 0,
+        "estado":"Nuevo"
+    },
+    {
+        "id": 6,
+        "categoria": "tractores",
+        "marca": "Case",
+        "modelo": "Magnum 305",
+        "potencia": 305,
+        "año": 2008,
+        "horas motor": 3000,
+        "estado":"Usado"
+    },
+    {
+        "id": 7,
+        "categoria": "tractores",
+        "marca": "Case IH",
+        "modelo": "Steiger Quadtrac 500",
+        "potencia": 500,
+        "año": 2022,
+        "horas motor": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 8,
+        "categoria":"cosechadoras",
+        "marca": "Case IH",
+        "modelo": "Axial Flow 8230",
+        "potencia": 230,
+        "sistema de cosecha": "Axial",
+        "año": 2021,
+        "horas motor": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 9,
+        "categoria": "tractores",
+        "marca": "New Holland", 
+        "modelo": "T7215",
+        "potencia": 215,
+        "año": 2017,
+        "horas motor": 7300,
+        "estado": "Usado"
+    },
+    {
+        
+    }
+]
